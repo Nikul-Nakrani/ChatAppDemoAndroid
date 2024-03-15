@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Chat App Demo</string>
+    <string name="str_email">Email</string>
+    <string name="str_password">Password</string>
+    <string name="str_login">Login</string>
+    <string name="str_sign_up">Sign Up</string>
+    <string name="str_name">Name</string>
+    <string name="str_logout">Logout</string>
+    <string name="str_type_a_message">Type a message</string>
+    <string name="str_this_is_sent_message">This is sent message</string>
+    <string name="str_this_is_receive_message">This is receive message</string>
+    <string name="str_file_name">File Name</string>
+    <string name="str_file_name_txt">File Name.txt</string>
+    <string name="str_title">Title</string>
+    <string name="str_this_is_description">This is description</string>
+</resources>
