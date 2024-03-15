@@ -16,6 +16,6 @@ This repository contains a simple demonstration of a chat application for Androi
 
 ```bash
 git clone https://github.com/Nikul-Nakrani/ChatAppDemoAndroid.git
-
+```
 
 ### Happy Coding!!! ###
